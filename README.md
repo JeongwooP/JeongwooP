@@ -1,7 +1,9 @@
 ### Hi there, I'm Jeongwoo - aka frost00 👋
-
+[![GitLab Badge](https://img.shields.io/badge/GitLab-5d07a8.svg?&style=for-the-badge&logo=GitLab&logoColor=Yellow)](https://lab.hanium.or.kr/0204jw)
 [![Tistory Badge](https://img.shields.io/badge/Blog-Tistory-orange?style=for-the-badge)](https://stepbystep1.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0204jw@gmail.com)](mailto:0204jw@gmail.com)
+
+
 <!-- with gitlab link "Also in"-->
 
 ## I'm a Senior, Student majoring in Computer Science Engineering and Blogger!
@@ -14,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="150px" src="https://user-images.githubusercontent.com/20348923/131149552-fbb4174b-a979-4228-90f7-0638e6a59ef7.png" />][Tistory Blog]
+[<img align="left" alt="https://stepbystep1.tistory.com/" width="150px" src="https://user-images.githubusercontent.com/20348923/131149552-fbb4174b-a979-4228-90f7-0638e6a59ef7.png" />][Tistory Blog]
 
 <br />
 <br />
