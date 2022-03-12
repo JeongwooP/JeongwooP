@@ -6,12 +6,12 @@
 
 <!-- with gitlab link "Also in"-->
 
-## I'm a Senior, Student majoring in Computer Science Engineering and Blogger!
+## I'm a Graduate Student majoring in Computer Science Engineering and Blogger!
 
 - 🔭 I am currently working on building unique website for projects in ICT Mentoring(Smart Offshore Logistics) and Open Source Software(OSS)!
 - 🌱 I’m currently learning web programming 📚
 - 👫 I’m looking to collaborate with other developers and colleagues
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch tech reviews and play piano / drums
 
 ### Connect with me:
