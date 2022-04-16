@@ -6,7 +6,7 @@
 
 <!-- with gitlab link "Also in"-->
 
-## I'm a Graduate Student majoring in Computer Science Engineering and Blogger!
+## I majored in Computer Science Engineering and am a Blogger!
 
 - 🔭 I am currently working on building unique website for projects in ICT Mentoring(Smart Offshore Logistics) and Open Source Software(OSS)!
 - 🌱 I’m currently learning web programming 📚
